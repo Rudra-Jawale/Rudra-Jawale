@@ -95,7 +95,7 @@ I'm a Computer Science graduate specializing in Data Science, passionate about t
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/rudra-jawale/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
