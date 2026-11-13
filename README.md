@@ -71,12 +71,12 @@ I'm a Computer Science graduate specializing in Data Science, passionate about t
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rudra-Jawale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Jawale&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rudra-Jawale&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Jawale&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rudra-Jawale&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Rudra-Jawale&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
