@@ -1,4 +1,3 @@
-
 <!-- ===================== PROFILE HEADER ===================== -->
 
 <h1 align="center">Hi 👋, I'm Rudra Jawale</h1>
@@ -60,23 +59,23 @@ I'm a Computer Science graduate specializing in Data Science, passionate about t
 
 | Project | Description | Technologies |
 |---|---|---|
-| **AVA - AI Voice Assistant** | Personal AI voice assistant with speech recognition and chatbot integration. | Python, OpenAI API, Edge-TTS |
-| **Industrial Defect Detection** | AI-powered system for identifying and classifying industrial defects. | Python, PyTorch, OpenCV |
-| **Stock Market Data Pipeline** | Data engineering pipeline for collecting, processing and analyzing stock market data. | Python, SQL, Data Engineering |
-| **Fake News Detection** | NLP-based machine learning system for identifying misleading news. | Python, NLP, ML |
-| **Plant Nutrient Deficiency Detection** | Deep learning model for plant nutrient deficiency detection and growth-stage prediction. | Python, EfficientNet, Deep Learning |
+| [Personal AI Assistant](https://github.com/Rudra-Jawale/Personal-AI-Assistant) | Personal AI voice assistant with speech recognition and chatbot integration. | Python, OpenAI API, Edge-TTS |
+| [Stock Market Data Pipeline](https://github.com/Rudra-Jawale/stock-market-data-pipeline) | Data engineering pipeline for collecting, processing and analyzing stock market data. | Python, SQL, Data Engineering |
+| [Fake News Detection](https://github.com/Rudra-Jawale/Fake-News-Detection-using-NLP) | NLP-based machine learning system for identifying misleading news. | Python, NLP, ML |
+| [Plant Nutrient Deficiency Detection](https://github.com/Rudra-Jawale/Nutrient-Deficiency-and-Growth-Stage-Prediction) | Deep learning model for plant nutrient deficiency detection and growth-stage prediction. | Python, EfficientNet, Deep Learning |
+| [Customer Churn Prediction](https://github.com/Rudra-Jawale/Customer_churn_prediction) | Machine learning project focused on predicting customer churn. | Python, Machine Learning |
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rudra-Jawale&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Jawale&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rudra-Jawale&show_icons=true&theme=tokyonight&hide_border=true" alt="Rudra's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Jawale&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Rudra-Jawale&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="65%" src="https://streak-stats.demolab.com?user=Rudra-Jawale&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
@@ -84,7 +83,11 @@ I'm a Computer Science graduate specializing in Data Science, passionate about t
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rudra-Jawale/Rudra-Jawale/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rudra-Jawale/Rudra-Jawale/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudra-Jawale/Rudra-Jawale/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Rudra-Jawale/Rudra-Jawale/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
@@ -92,7 +95,7 @@ I'm a Computer Science graduate specializing in Data Science, passionate about t
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:jawalerudra@gmail.com">
