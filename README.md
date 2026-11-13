@@ -95,9 +95,6 @@ I'm a Computer Science graduate specializing in Data Science, passionate about t
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
   <a href="mailto:jawalerudra@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
